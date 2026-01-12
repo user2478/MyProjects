@@ -7,3 +7,6 @@ Click here to view my Phishing Investigation Report (PDF):
 # Student Dashboard Project
 Click here to view my Student Dashboard Project:
 https://zaraali231.github.io/Student-Dashboard-Project/
+
+# Cybersecurity Strategy and Risk Assessment Project
+Click here to view my Project Report PDF: [Download PDF](https://github.com/user2478/MyProjects/blob/main/Group2_ProjectReport.pdf)
